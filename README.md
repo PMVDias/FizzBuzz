@@ -25,6 +25,7 @@ Please keep the code for this step in a separate folder called: Step1
 Write a program that produces the following for a contiguous range of numbers:
 
 ● the number
+
 ● 'fizz' for numbers that are multiples of 3
 
 ● 'buzz' for numbers that are multiples of 5
@@ -36,27 +37,41 @@ e.g.: if I run the program over a range from 1-20 I should get the following res
 Step 2
 Please keep the code for this step in a separate folder, isolated from the previous step, called: Step2
 Change your existing FizzBuzz solution to perform the following:
+
 ● If the number contains a three you must output the text 'lucky'
+
 ● This overrides any existing behaviour
+
 e.g.: if I run the program over a range from 1-20 I should get the following output:
 
 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz
 Step 3
 Please keep the code for this step in a separate folder, isolated from the previous step, called: Step3
 Finally, change your existing solution to perform the following:
+
 ● Produce a report at the end of the program showing how many times the following were output
+
 ○ fizz
+
 ○ buzz
+
 ○ fizzbuzz
+
 ○ lucky
+
 ○ an integer
+
 e.g.: if I run the program over a range from 1-20 I should get the following output:
 1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz
+
 fizz: 4
+
 buzz: 3
+
 fizzbuzz: 1
 
 lucky: 2 integer: 10
+
 (integer is 10 because there were 10 numbers that were not altered in any way)
 Code submission
 We will send you a link to a private repo on Bitbucket to submit your code. Please do your commits in a way we can
