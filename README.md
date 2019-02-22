@@ -8,23 +8,29 @@ difficult. It is designed to be a straightforward coding exercise, and it should
 Things we are very picky about:
 ● Test Coverage – the solution should be developed using TDD (test-first) and with excellent unit test
 coverage.
+
 ● Simplicity – We value simplicity as an architectural virtue and a development practice. Solutions should
 reflect the difficulty of the assigned task, and should NOT be overly complex. Layers of abstraction, patterns,
 or architectural features that aren’t called for should NOT be included.
+
 ● Self-explanatory code – the solution must speak for itself. Multiple paragraphs explaining the solution are a
 sign that isn’t straightforward enough to understand purely by reading the code.
+
 ● Should be easy to run the program and tests from the command line. If you need supporting scripts, feel free
 to add them to your submission.
 
 Instructions
-
 Step 1
 Please keep the code for this step in a separate folder called: Step1
 Write a program that produces the following for a contiguous range of numbers:
+
 ● the number
 ● 'fizz' for numbers that are multiples of 3
+
 ● 'buzz' for numbers that are multiples of 5
+
 ● 'fizzbuzz' for numbers that are multiples of 15
+
 e.g.: if I run the program over a range from 1-20 I should get the following result:
 1 2 fizz 4 buzz fizz 7 8 fizz buzz 11 fizz 13 14 fizzbuzz 16 17 fizz 19 buzz
 Step 2
